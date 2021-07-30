@@ -20,4 +20,10 @@
 .header img {
 	height: 60px;
 }
+
+@media screen and (max-width: 1240px) {
+	.header {
+		padding-left: 20px;
+	}
+}
 </style>
