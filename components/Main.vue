@@ -4,11 +4,23 @@
 		<div class="wrapper">
 			<div class="wrapper-left">
 				<h1>製品情報</h1>
-				<p>準備中</p>
+				<p></p>
+				<br>
+				<h1>コンテンツ</h1>
+				<p></p>
+				<br>
+				<h1>リンク集</h1>
+				<p></p><br>
 			</div>
-			<div class="wrapper_right">
+			<div class="wrapper-right">
 				<h1>トピックス</h1>
-				<p>準備中</p>
+				<p></p>
+				<br>
+				<h1>更新情報</h1>
+				<p></p>
+				<br>
+				<h1>プロフィール</h1>
+				<p></p>
 			</div>
 		</div>
 	</div>
